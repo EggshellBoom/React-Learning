@@ -1,0 +1,42 @@
+input{    
+    width: 500px;
+    height: 30px;
+    border: 3px solid #f77a52;
+    border-radius: 50px;
+    font-size: large;
+}
+
+
+button{
+    background-color: #f77a52;
+    border: 3px solid #f0b8a6;
+    border-radius: 100px;
+     font-stretch: expanded;
+    font-family: sans-serif;
+}
+
+.functionbox{
+    display: flex;
+    justify-content: space-between;
+    width: 550px;
+    margin: 20px;
+}
+
+.mainframe{
+    border: 5px solid #f77a52;
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 600px;
+}
+
+.eachitem{
+    margin-left: 50px;
+    display: flex;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    border-bottom: 1px solid orange;
+    transition-timing-function: ease;
+}
+

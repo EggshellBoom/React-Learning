@@ -1,0 +1,20 @@
+.fail{
+  border: 2px dotted orange;
+   
+  transition: border 0.5s linear;
+}
+
+.pass{
+  border: 2px solid green;
+   
+  transition: border 0.5s linear;
+}
+
+.rowstyle{
+    margin: 10px;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column
+}
