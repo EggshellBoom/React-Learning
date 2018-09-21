@@ -1,6 +1,6 @@
 ## form
 [Portal to form Demo](https://eggshellboom.github.io/form/)
-This is a sign up form using a single react component, it follows certain rules:
+####This is a sign up form using a single react component, it follows certain rules:
 * Fields are:
   * Name – required, a string
   * Email – required, must be a valid email address (*@*.*)
