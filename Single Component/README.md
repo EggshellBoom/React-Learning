@@ -8,8 +8,8 @@ This Folder consistes of all the good single components app I believe is great f
 
 
 ## Timer
-
-
+[Portal to Timer Demo](https://eggshellboom.github.io/timer/)
+#### a simple timer app that satisfies the points below
 * UI that shows the current number in the timer.
 *	Button that toggles the timer. If the time has not started yet or has been stopped, the text on the button should be "start". Otherwise the text should be "stop".
 *	Reset button that resets the number of the time to 0. If one press the reset button while the timer is running, the time should not stop and will start from 0 again.
@@ -17,8 +17,8 @@ This Folder consistes of all the good single components app I believe is great f
 
 
 ## Todo List
-
-
+[Portal to Todo List Demo](https://eggshellboom.github.io/todolist/)
+#### a simple todo list app that satisfies the points below
 * In the text box, enter a task and hit return to add the task to the list
 * Click the checkbox in front of a task to complete it, which reduces the number of remaining tasks by 1 and the task should disappear from the list. (The list should only show incomplete tasks).
 * Click the checkbox in front of 'Mark All Done' to complete all, which sets the number of remaining tasks to 0 and remove all tasks from the list
@@ -27,7 +27,8 @@ This Folder consistes of all the good single components app I believe is great f
 
 
 ## form
-
+[Portal to form Demo](https://eggshellboom.github.io/form/)
+#### a sign up form with controlled component
 * Here are the fields:
   * Name – required, a string
   * Email – required, must be a valid email address (*@*.*)

@@ -1,0 +1,47 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.YMselect{
+  width: 100px;
+  border: 2px solid orange;
+  margin: 15px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.weekdays{
+  margin: 0;
+  padding: 10px 0;
+  background-color: orange;
+  width:500px;
+}
+
+.weekdays li{
+  display: inline-block;
+  width: 13.6%;
+  font-size: large;
+
+  color: white
+}
+
+
+.days{
+  padding: 15px 0;
+  background-color: #eee;
+  margin: 0;
+}
+
+.days li{
+ border: 0.05px solid orange;
+ display: inline-block;
+ width: 13.6%;
+ margin-bottom: 5px;
+ color: #777
+}
