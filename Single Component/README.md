@@ -1,5 +1,5 @@
-This Folder consistes of all the good single components app I believe is great for leaning based on personal experience. 
-Compontnt is an inportant concept to understand in React. These three simple app is great at practicing if one just started learning React.
+This Folder consistes of all the good single component app I believe is great for leaning based on personal experience. 
+Component is an important concept to understand in React. These three simple app is great at practicing if one just started learning React.
 ## Table of Contents
 
 - [Timer](#timer)
