@@ -7,5 +7,5 @@ This Folder consistes of all the all the react app I believe is great for leanin
 
 ## Final App
 Here is user list app that consists of all the catagories listed above. Take a look:
-[Portal to User List Demo](https://eggshellboom.github.io/Userlist/)
+[Portal to User List Demo](https://eggshellboom.github.io/UserList/)
 [Portal to User List Source Code](https://github.com/EggshellBoom/React-Learning/tree/master/Userlist)

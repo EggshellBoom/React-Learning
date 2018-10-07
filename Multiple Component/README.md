@@ -2,13 +2,13 @@ This Folder consistes of all the good multiple component app I believe is great 
 Compontnt is an inportant concept to understand in React. understanding the dependancies between each components and putting them together is also worth exploring.
 ## Table of Contents
 
-- [Calender](#calender)
+- [Calendar](#calendar)
 
 
 
 ## Timer
-[Portal to Calender Demo](https://eggshellboom.github.io/calender/)
-#### a simple calender app with 3 components that satisfies the points below
+[Portal to Calendar Demo](https://eggshellboom.github.io/calendar/)
+#### a simple calendar app with 3 components that satisfies the points below
 * Choosing Year Component: 
     * Shows currently selected year
     * << and >> to move to a previous / next year.
